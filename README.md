@@ -29,7 +29,7 @@
 
 ### 🧩 Sudoku Solver (C)
 Backtracking algorithm with constraint optimization (MRV heuristic) to efficiently solve Sudoku grids.  
-*Status: Completed*
+*Status: In Progress*
 
 ### 🎮 Pokémon AI Bot (Python)
 Input automation system to control gameplay, designed as a foundation for future AI-driven decision making.  
