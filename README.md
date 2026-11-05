@@ -29,11 +29,11 @@
 
 ### 🧩 Sudoku Solver (C)
 Backtracking algorithm with constraint optimization (MRV heuristic) to efficiently solve Sudoku grids.  
-*Status: In Progress*
+*Status: Completed*
 
-### 🎮 Pokémon AI Bot (Python)
-Input automation system to control gameplay, designed as a foundation for future AI-driven decision making.  
-*Status: Starting*
+### 🏠 Property Portfolio Manager (C#)
+Windows Forms desktop application for managing a real estate property portfolio, built with C# and .NET 10. 
+*Status: In Progress*
 
 
 ## 🚀 My Journey
