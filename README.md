@@ -32,7 +32,7 @@ Backtracking algorithm with constraint optimization (MRV heuristic) to efficient
 *Status: Completed*
 
 ### 🏠 Property Portfolio Manager (C#)
-Windows Forms desktop application for managing a real estate property portfolio, built with C# and .NET 10. 
+Windows Forms desktop application for managing a real estate property portfolio, built with C# and .NET 10.    
 *Status: In Progress*
 
 
